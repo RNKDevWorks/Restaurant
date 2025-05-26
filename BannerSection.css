@@ -1,0 +1,256 @@
+#n1{
+   color:#323f4b;
+   font-family: "Roboto";
+}
+#n2{
+    color:#323f4b;
+    font-family: "Roboto";   
+ }
+ #n3{
+    color:#323f4b;
+    font-family: "Roboto";   
+ }
+ #n4{
+    color:#323f4b;
+    font-family: "Roboto";
+     
+ }
+ .food-logo{
+    width:70px;
+    height: 70px;
+    border:1px solid grey;
+    border-radius: 5px;
+ }
+ .banner-section-bg-container{
+    background-image: url("https://images.pexels.com/photos/616401/pexels-photo-616401.jpeg?cs=srgb&dl=pexels-goumbik-616401.jpg&fm=jpg");
+    background-size: cover;
+    height:100vh;
+ }
+ .banner-heading{
+    color:white;
+    font-family: "Roboto";
+    font-size:45px;
+    font-weight:300;
+ }
+ .banner-caption{
+    color:#f5f7fa;
+    font-family: "Roboto";
+    font-size:24px;
+    font-weight: 300;
+ }
+ .button1{
+    width: 130px;
+    height: 45px;
+    color:white;
+    background-color:#d0b200;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right:10px;
+ }
+ .button2{
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    color:white;
+    border:2px solid white;
+    margin-right:10px;
+    border-radius: 8px;
+ }
+
+
+ .wcu-section{
+   background-color: #f9fbfe; 
+   
+}
+.whyChooseUsheight{
+   background-size: cover;
+    height:100vh;
+    
+}
+.wcu-section{
+   font-family: "Roboto";
+   font-weight: 700;
+   font-size: 28px;
+   color:#183b56;
+   padding-top: 50px;
+}
+.wcu-section-paragraph{
+   font-family: "Roboto";
+   font-size: 16px;
+   color:#5a7184;   
+}
+.food_service_logo{
+   height: 90px;
+   width: 80px;
+   border:1px solid grey;
+   border-radius: 5px;
+
+}
+.service_heading{
+   font-family: "Roboto";
+   font-weight: 500;
+   font-size: 22px;
+   color:#323f4b;
+}
+.service_paragraph{
+   font-family: "Roboto";
+   font-size: 16px;
+   color:#7b8794;
+}
+.wcu-card{
+   background-color: white;
+   text-align: center;
+   border-color: #e5eaf4;
+   border-radius: 16px;
+   margin-bottom: 10px;
+}
+.menu_section_heading{
+   padding-top: 90px;
+   font-family: "Roboto";
+   font-weight: 700;
+   font-size: 28px;
+   color:#183b56;
+}
+.menu_image{
+   height: 200px;
+   width:150px;
+   border-radius: 5px;
+}
+.menu_card_title{
+   color:#323f4b;
+   font-family: "Roboto";
+   font-weight: 500;
+   font-size: 18px;
+   margin-top: 24px;
+}
+.menu_item_link{
+   color:#d0b200;
+   font-family: "Roboto";
+   font-weight: 500;
+   font-size: 14px;
+}
+.menu_item_card{
+   border-radius: 16px;
+}
+
+.customerSection_image{
+   height: 200px;
+   width:150px;
+   border-radius: 10px;
+}
+.customerheading{
+   font-family: "Roboto";
+   font-family: 20px;
+   color:#183b56;
+   padding-top: 90px;
+   
+}
+.customerpara{
+   font-family: "Roboto";
+   font-family: 15px;
+   color:#183b56;
+}
+.heading{
+   padding-top: 50px;
+}
+.card_cantainer{
+  
+   border-radius: 5px;
+}
+.button1{
+   width: 130px;
+   height: 45px;
+   color:white;
+   background-color:linear-gradient(#d0b200,#a58d00);
+   border-width: 0;
+   border-radius: 8px;
+   margin-right:10px;
+}
+.image1{
+   width:50px;
+   height:50px;
+   padding-top: 3px;
+   padding-bottom: 3px;
+   padding-right: 5px;
+   padding-left: 5px;
+   border-radius: 10px;
+   margin:15px;
+   
+   background-color:#fae38c ;
+}
+.thanking-heading-section{
+   font-family: "Roboto";
+   font-family: 10px;
+   color:#183b56;
+}
+.thanking-paragraph-section{
+   font-family: "Roboto";
+   font-family: 5px;
+   color:grey; 
+}
+.thanking-gift-img{
+   height: 250px;
+   width:250px;
+   background-color:#fae38c;
+}
+.button1{
+   width: 130px;
+   height: 45px;
+   color:white;
+   background-color:#d0b200;
+   border-width: 0;
+   border-radius: 8px;
+   margin-right:10px;
+}
+.card-container{
+   border-radius: 5px;
+}
+.follow-us-section-heading{
+   font-family: "Roboto";
+   font-weight: 700;
+   font-size: 28px;
+   color:#183b56;
+}
+.icon{
+   color:#d0b200;
+   font-size: 35px;
+
+}
+.follow-us-icon{
+   width:80px;
+   height: 80px;
+   background-color: #faf7e8;
+   padding-top: 22px;
+   padding-bottom: 14px;
+   padding-right: 16px;
+   padding-left: 22px;
+   margin:15px;
+   border-radius: 40px;
+}
+.heading{
+   font-family: "Roboto";
+   font-weight: 700;
+   font-size: 28px;
+   color:#183b56;
+   margin-top: 8px;
+   margin-bottom: 5px;
+
+}
+.thanking-costemers-section-model-title{
+   color:#d0b200;
+   font-weight: 800px;
+}
+
+
+.card_cantainer,card-cantainer{
+   background-image: radial-gradient(#fff8bd,#fae38c);
+
+}
+.footerBottom{
+   text-align: center;
+   font-family: "Roboto";
+   font-weight: 100;
+   font-size: 18px;
+   color:white;
+   background-color:black;
+}
